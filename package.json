@@ -17,6 +17,7 @@
     "url": "https://github.com/franzZadra/PROVA_PreJS/issues"
   },
   "homepage": "https://github.com/franzZadra/PROVA_PreJS#readme",
+  "type" : "module",
   "devDependencies": {
     "express": "^4.18.2",
     "sqlite": "^4.1.2",
