@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/franzZadra/PROVA_PreJS/issues"
   },
-  "homepage": "https://github.com/franzZadra/PROVA_PreJS#readme"
+  "homepage": "https://github.com/franzZadra/PROVA_PreJS#readme",
+  "devDependencies": {
+    "express": "^4.18.2",
+    "sqlite": "^4.1.2",
+    "sqlite3": "^5.1.6"
+  }
 }
